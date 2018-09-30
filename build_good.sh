@@ -1,3 +1,4 @@
+rm -f a.out
 rm -f return_test.ll
 rm -f return_test.bc
 rm -f return_test.o
